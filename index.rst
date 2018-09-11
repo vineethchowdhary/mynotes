@@ -1,11 +1,15 @@
-# Documentation
+***************
+Documentation
+***************
+
 Documenting my projects
 
+============
+C
+============
 
-
-# C
-	compilation process
-	stack execution
+  - compilation process
+  * stack execution
 	Assembly to C
 	C to Assembly
 
