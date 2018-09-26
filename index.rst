@@ -15,18 +15,26 @@ C
 
 * :ref:`test`
 
-# Python
+============
+Python
+============
 
-# Yocto
+============
+Yocto
+============
 
-# Linux Kernel
+============
+Linux Kernel
+============
 
     Kernel bringup steps
     Main threads of operating system
     IOCTL calls
     system calls
 
-# OS concepts
+============
+OS concepts
+============
 
     process management
     Interrupt context
@@ -37,14 +45,18 @@ C
         threads
         work ques
         bottom halfs, 
-
-# Embedded
+  
+============
+Embedded
+============
 
     boot process
     secure booting
     platform initialization
-
-# Protocols/pheripherals
+  
+============
+Protocols/pheripherals
+============
 
     GPIO
     SPI
@@ -56,11 +68,15 @@ C
     GIC
     TIMERS
 
-# English
+============
+English
+============
 
     communication
     presentation
 
-# Spirituality
+============
+Spirituality
+============
 
     Guruvastakam
